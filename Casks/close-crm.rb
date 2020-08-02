@@ -8,5 +8,5 @@ cask "close-crm" do
   name "Close CRM"
   homepage "https://close.com/"
 
-  app "Close.app"
+  app "Close.io.app"
 end
