@@ -8,7 +8,5 @@ cask "close-crm" do
   name "Close CRM"
   homepage "https://close.com/"
 
-  # auto_updates true
-
   app "Close.app"
 end
